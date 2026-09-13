@@ -1,0 +1,27 @@
+AGOT Vanilla Courts
+
+Guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3800254441 — the settings and mods this belongs to.
+
+For https://steamcommunity.com/sharedfiles/filedetails/?id=2962333032 on a GPU that cannot hold AGOT's throne rooms: sends every ruler to the vanilla throne rooms instead. Two data files, no shaders, no script, nothing checksummed.
+
+WHY
+
+AGOT's own throne rooms are heavy: Casterly Rock's has 18 shadow casting lights and 18 fire particle systems on top of 75 MB of materials. On a 4 GB card, where the AGOT map alone sits at 3.5 GB of video memory, opening it made the graphics driver fail its memory allocations: a black screen, and on closing it a map rendered out of garbage until a restart. Lower Texture Quality helped the lighter rooms but not that one. The vanilla rooms are a fraction of the size and were never a problem.
+
+HOW
+
+AGOT assigns its rooms by the ruler's capital and locks the vanilla style rooms behind a condition. This mod ships those two scene culture files rewritten: every AGOT room disabled, the lock removed, so the ordinary culture triggers pick the room the way they do for everyone else. You lose the Iron Throne room, Pyke, Winterfell and the other custom halls; you keep everything else, including the characters and the court mechanics. Rulers whose capital has no AGOT room see no difference.
+
+NOTES
+
+- No gameplay, script or history files: ironman and achievements are unaffected
+- Safe to add or remove at any time; takes effect the next time a court is opened
+- Built for CK3 1.19.x and AGOT 0.5.2.1; regenerated from AGOT's files by a script in the source repository after AGOT updates
+
+COMPATIBILITY
+
+Replaces gfx/court_scene/scene_cultures/00_default_cultures.txt and agot_default_cultures.txt, on top of AGOT's versions. Load it below AGOT. Independent of the other AGOT patches; not usable without AGOT.
+
+SOURCE
+
+https://github.com/mekedron/ck3-agot-vanilla-courts

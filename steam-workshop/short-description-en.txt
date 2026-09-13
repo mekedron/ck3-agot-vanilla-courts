@@ -1,0 +1,1 @@
+Sends every A Game of Thrones ruler to the vanilla throne rooms. AGOT's own halls (18 shadow lights and 18 fires in Casterly Rock) break the court on 4 GB GPUs; the vanilla ones never did.
