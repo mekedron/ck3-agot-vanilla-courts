@@ -1,5 +1,8 @@
 [h1]AGOT Vanilla Courts[/h1]
 
+[h2]Поддержите на форуме Paradox[/h2]
+Я попросил Paradox исправить в самой игре размытую карту без Advanced Shaders и меню паузы на широких мониторах. Помогут [b]лайк или ответ[/b] в [url=https://forum.paradoxplaza.com/forum/threads/1946916/]теме на форуме[/url].
+
 [b]Гайд:[/b] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3800254441]CK3 on a potato PC: a locked 60 FPS, and the map still looks sharp[/url] — настройки и моды, к которым это относится.
 
 Для [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2962333032]A Game of Thrones[/url] на видеокарте, которой не хватает на тронные залы AGOT: отправляет каждого правителя в ванильные тронные залы. Два файла данных, никаких шейдеров, скриптов и контрольных сумм.

@@ -1,5 +1,8 @@
 AGOT Vanilla Courts
 
+ПОДДЕРЖИТЕ НА ФОРУМЕ PARADOX
+Я попросил Paradox исправить в самой игре размытую карту без Advanced Shaders и меню паузы на широких мониторах. Помогут лайк или ответ в https://forum.paradoxplaza.com/forum/threads/1946916/.
+
 Гайд: https://steamcommunity.com/sharedfiles/filedetails/?id=3800254441 — настройки и моды, к которым это относится.
 
 Для https://steamcommunity.com/sharedfiles/filedetails/?id=2962333032 на видеокарте, которой не хватает на тронные залы AGOT: отправляет каждого правителя в ванильные тронные залы. Два файла данных, никаких шейдеров, скриптов и контрольных сумм.
